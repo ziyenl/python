@@ -1,4 +1,4 @@
-#Python Cheatsheet
+#Python Tips
 
 Topics| Suggestion |
 ---| --- 
