@@ -1,4 +1,4 @@
-# This is solution to the defaultdict Problem
+# This is solution to the defaultdict problem
 # https://www.hackerrank.com/challenges/defaultdict-tutorial
 
 from collections import defaultdict
