@@ -2,6 +2,7 @@
 # https://www.hackerrank.com/challenges/collections-counter
 from collections import Counter
 
+
 def get_total_earnings(shoe_sizes, customers):
     '''Get total earnings'''
     total_earnings = 0
@@ -12,6 +13,7 @@ def get_total_earnings(shoe_sizes, customers):
             counter[shoe_size] -= 1
             total_earnings += price
     return total_earnings
+
 
 number_of_shoes = int(input())
 available_shoe_sizes = list( map(int, input().split(' ')) )
