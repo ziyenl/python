@@ -1,5 +1,6 @@
+# This is solution to collections_counter problem
+# https://www.hackerrank.com/challenges/decorators-2-name-directory
 from operator import itemgetter
-
 
 #Variation One
 def sort_by_age(func):
