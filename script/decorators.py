@@ -1,5 +1,6 @@
 # This is solution to collections_counter problem
 # https://www.hackerrank.com/challenges/decorators-2-name-directory
+# Useful reference: http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/
 from operator import itemgetter
 
 #Variation One
