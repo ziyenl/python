@@ -29,7 +29,7 @@ def sort_by_age(data):
 	for greeting, _ in data:
 		print(greeting)
     
-    
+#Input
 count = int(raw_input())
 data = []
 for _ in range(count):
