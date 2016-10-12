@@ -8,7 +8,7 @@ Topics| Suggestion |
 #Python Exercise
 Topics|
 ---|
-[collections.Counter()](https://github.com/ziyenl/python/blob/master/script/collections_counter.py)|
-[collections.defaultdict](https://github.com/ziyenl/python/blob/master/script/collections_defaultdict.py)|
+[collection Counter](https://github.com/ziyenl/python/blob/master/script/collections_counter.py)|
+[defaultdict](https://github.com/ziyenl/python/blob/master/script/collections_defaultdict.py)|
 [Python Decorators](https://github.com/ziyenl/python/blob/master/script/decorators.py)|
 
