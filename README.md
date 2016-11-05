@@ -13,4 +13,4 @@ Topics| Description |
 [Dictionary with predefined Type](https://github.com/ziyenl/python/blob/master/script/collections_defaultdict.py)| use defaultdict |
 [Left Rotation in Array](https://github.com/ziyenl/python/blob/master/script/left_rotation.py)| left rotation using slicing |
 [Cycle detection in Linked List](https://github.com/ziyenl/python/blob/master/script/cycle_detection.py)| cycle detection using tortoise and hare |
-[Differences to produce Anagrams](https://github.com/ziyenl/python/blob/master/script/anagram_differences.py)| differences in anagram using collections.Counter |
+[Differences in producing Anagrams](https://github.com/ziyenl/python/blob/master/script/anagram_differences.py)| differences in producing anagram using collections.Counter |
