@@ -2,6 +2,7 @@
 # https://www.hackerrank.com/challenges/ctci-array-left-rotation
 
 def array_left_rotation(a, n, k):
+    ''' left rotated array '''
     rotation = k % n
     return a[rotation:] + a[:rotation]
 
