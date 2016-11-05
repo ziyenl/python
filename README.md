@@ -11,4 +11,4 @@ Topics| Description |
 [Decorators Greeting Example](https://github.com/ziyenl/python/blob/master/script/decorators_greetings.py) | use decorators on greetings |
 [Decorators Phones Example](https://github.com/ziyenl/python/blob/master/script/decorators_phones.py) | use decorators on phone numbers |
 [Dictionary with predefined Type](https://github.com/ziyenl/python/blob/master/script/collections_defaultdict.py)| use defaultdict |
-[Left Rotation in Array](https://github.com/ziyenl/python/blob/master/script/left_rotation.py)| left rotation |
+[Left Rotation in Array](https://github.com/ziyenl/python/blob/master/script/left_rotation.py)| left rotation using slicing |
