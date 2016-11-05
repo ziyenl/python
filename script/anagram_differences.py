@@ -3,6 +3,7 @@
 from collections import Counter
 
 def number_needed(a, b):
+	''' number of characters needed to remove to produce anagrams '''
 	common_total = 0
 	counter_a = Counter(a)
 	counter_b = Counter(b)
