@@ -1,3 +1,6 @@
+# This is solution to the left rotation in arrays
+# https://www.hackerrank.com/challenges/ctci-linked-list-cycle
+# Tortoise and Hare can be found at https://en.wikipedia.org/wiki/Cycle_detection
 """
 Detect a cycle in a linked list. Note that the head pointer may be 'None' if the list is empty.
 
@@ -8,7 +11,6 @@ A Node is defined as:
             self.data = data
             self.next = next_node
 """
-
 
 # Storage method
 def has_cycle(head):
