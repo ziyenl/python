@@ -1,3 +1,5 @@
+# This is solution to collections_counter problem
+# https://www.hackerrank.com/challenges/ctci-making-anagrams
 from collections import Counter
 
 def number_needed(a, b):
