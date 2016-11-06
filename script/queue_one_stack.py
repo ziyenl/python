@@ -5,15 +5,18 @@ class MyQueue(object):
         self.stack = []
     
     def peek(self):
+        ''' View first element of queue '''
         if len(self.stack) > 0:
             return self.stack[0]
         
     def pop(self):
+        ''' Remove first element of the queue '''
         item = self.stack[0]
         self.stack = self.stack[1:]
         return item
         
     def put(self, value):
+        ''' Add element to queue '''
         self.stack.append( value )
         
 
