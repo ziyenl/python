@@ -20,4 +20,4 @@ Topics| Description |
 [Dictionary with predefined Type](https://github.com/ziyenl/python/blob/master/script/collections_defaultdict.py)| use defaultdict |
 [Left Rotation in Array](https://github.com/ziyenl/python/blob/master/script/left_rotation.py)| left rotation using slicing |
 [Stacks: Balanced Bracket](https://github.com/ziyenl/python/blob/master/script/balanced_bracket.py) | balanced bracket in expression using stacks |
-[Tales of Two Stack](https://github.com/ziyenl/python/blob/master/script/queue.py) | using queue and slicing for tales of two stacks |
+[Tales of Two Stack](https://github.com/ziyenl/python/blob/master/script/queue_two_stacks.py) | using queue and slicing for tales of two stacks |
