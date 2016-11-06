@@ -6,16 +6,19 @@ class MyQueue(object):
         self.second = []
     
     def peek(self):
+        ''' View first element of queue '''
         if len(self.first) > 0:
             return self.first[0]
         
     def pop(self):
+        ''' Remove first element of the queue '''
         if len(self.first) > 0:
             self.second.append( self.first[0] )
             self.first = self.first[1:]
             return self.second.pop()
         
     def put(self, value):
+        ''' Add element to queue '''
         self.first.append( value )
         
 
