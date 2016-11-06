@@ -1,3 +1,5 @@
+# This is solution to the balanced brackets problem
+# https://www.hackerrank.com/challenges/ctci-balanced-brackets
 def is_matched(expression):
     ''' check if expression matches '''
     stack = []
