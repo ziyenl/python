@@ -2,19 +2,21 @@
 # https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks
 class MyQueue(object):
     def __init__(self):
-        self.stack = []
+        self.first = []
+        self.second = []
     
     def peek(self):
-        if len(self.stack) > 0:
-            return self.stack[0]
+        if len(self.first) > 0:
+            return self.first[0]
         
     def pop(self):
-        item = self.stack[0]
-        self.stack = self.stack[1:]
-        return item
+        if len(self.first) > 0:
+            self.second.append( self.first[0] )
+            self.first = self.first[1:]
+            return self.second.pop()
         
     def put(self, value):
-        self.stack.append( value )
+        self.first.append( value )
         
 
 queue = MyQueue()
