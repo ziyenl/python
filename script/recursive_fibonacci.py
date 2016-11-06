@@ -1,3 +1,5 @@
+# This is solution for recursive fibonacci using memoize
+# https://www.hackerrank.com/challenges/ctci-fibonacci-numbers
 def memoize(func):
     ''' memoize fibonacci functions '''
     storage = {}
