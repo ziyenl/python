@@ -1,3 +1,5 @@
+# This is solution for tales of two stacks
+# https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks
 class MyQueue(object):
     def __init__(self):
         self.stack = []
