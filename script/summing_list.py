@@ -1,3 +1,6 @@
+# This is solution for summing two linked list
+# Problem described here: https://www.kancloud.cn/kancloud/data-structure-and-algorithm-notes/73006
+# and http://www.geeksforgeeks.org/add-two-numbers-represented-by-linked-lists/
 class Node(object):
 	''' Node object '''
 	def __init__(self, data=0):
