@@ -7,6 +7,7 @@ class Node(object):
 		self.data = data
 		self.next = None
  
+
 class LinkedList(object):
 	''' Linked List object '''
 	def __init__(self):
