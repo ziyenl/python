@@ -7,14 +7,16 @@ Topics| Description
 
 
 
-#Data Structure
-Topics| Description |
----| --- 
-[Summation of Two Linked List](https://github.com/ziyenl/python/blob/master/script/summing_list.py)| summation of two linked list |
-[Queue Implementation (FIFO)](https://github.com/ziyenl/python/blob/master/script/queue.py)| queue implementation |
+# Data Structure
 
-#Hacker Ranks
-Topics| Description |
+Topics| Description
+---| --- 
+[Summation of Two Linked List](https://github.com/ziyenl/python/blob/master/script/summing_list.py)| summation of two linked list
+[Queue Implementation (FIFO)](https://github.com/ziyenl/python/blob/master/script/queue.py)| queue implementation
+
+# Hacker Ranks
+
+Topics| Description
 ---| --- 
 ["Counter" for Iterable](https://github.com/ziyenl/python/blob/master/script/collections_counter.py) | use collections.Counter |
 [Cycle detection in Linked List](https://github.com/ziyenl/python/blob/master/script/cycle_detection.py)| cycle detection using tortoise and hare |
