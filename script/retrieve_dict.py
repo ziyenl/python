@@ -17,7 +17,7 @@ def get_value(retrieve_item):
   except:
     print('{} not found'.format( retrieve_item ))
           
-# Default Value of dict.get()
+# Method 3: Default Value of dict.get()
 def get_value(retrieve_item):
   default = object()
   val = sample_dict.get(retrieve_item, default)
