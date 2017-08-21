@@ -1,4 +1,9 @@
-name = 'serena'
-balance = 2.5468
+# new approach of string formatting in python 3.6 and above
+# it allows interjection of variables from local environment
 
-print(f'{name}\'s balance is {balance:.2f}') 
+animal = "cats"
+measurement = "weight"
+quantity = 65.423
+
+print( f"{animal}\'s average {measurement} is {quantity:.2f} kg")
+
