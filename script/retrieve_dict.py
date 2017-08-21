@@ -25,5 +25,8 @@ def get_value(retrieve_item):
     print('{} not found'.format( retrieve_item))
   else:
     print(val)
+    
+ 
+get_value('apple')
   
   
