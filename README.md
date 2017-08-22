@@ -33,4 +33,4 @@ Topics| Description
 # Numpy
 Topics | 
 ----|
-[Numpy](https://github.com/ziyenl/python/blob/master/script/numpy_example.py) |
+[Numpy](https://github.com/ziyenl/python/blob/master/script/numpy_examples.py) |
