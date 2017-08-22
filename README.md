@@ -33,4 +33,4 @@ Topics| Description
 # Numpy Examples
 Topics | 
 ----|
-[Numpy Reference](https://github.com/ziyenl/python/blob/master/script/numpy_examples.py) | Numpy Reference includes ways to manipulate numpy arrays |
+[Numpy Reference](https://github.com/ziyenl/python/blob/master/script/numpy_examples.py) | Numpy references includes ways to manipulate numpy arrays |
