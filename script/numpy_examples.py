@@ -87,3 +87,13 @@ np.split(a,1)
 # Same with slicing where it just creates a copy that reference the same underlying buffer.
 k = np.copy(a)
 
+# save/load np arrrays
+np.save('my_np_array', a)
+np.load('my_np_array')
+
+# load from csv
+np.genfromtxt('filename.csv', delimiter=',', names=True)
+
+# unstructured
+np.array([(1, 'First', 2.22), (2, 'Second', 3.34)], dtype=('i2, a6, f2'))
+
