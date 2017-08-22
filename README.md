@@ -31,6 +31,6 @@ Topics| Description
 [Tales of Two Stack](https://github.com/ziyenl/python/blob/master/script/queue_two_stacks.py) | using two queues and slicing for tales of two stacks |
 
 # Numpy Examples
-Topics | 
-----|
+Topics | Description
+----| --- 
 [Numpy Reference](https://github.com/ziyenl/python/blob/master/script/numpy_examples.py) | Numpy references includes ways to manipulate numpy arrays |
