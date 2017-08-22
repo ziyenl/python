@@ -81,3 +81,9 @@ np.hsplit(a, 2)
 np.vsplit(a, 2)
 #np.split
 np.split(a,1)
+
+# copying np array
+# When using assignment, it is referencing the same copy. 
+# Same with slicing where it just creates a copy that reference the same underlying buffer.
+k = np.copy(a)
+
