@@ -30,7 +30,7 @@ Topics| Description
 [Tales of Two Stack](https://github.com/ziyenl/python/blob/master/script/queue_one_stack.py) | using queue and slicing for tales of two stacks |
 [Tales of Two Stack](https://github.com/ziyenl/python/blob/master/script/queue_two_stacks.py) | using two queues and slicing for tales of two stacks |
 
-# Numpy
+# Numpy Examples
 Topics | 
 ----|
-[Numpy](https://github.com/ziyenl/python/blob/master/script/numpy_examples.py) |
+[Numpy Reference](https://github.com/ziyenl/python/blob/master/script/numpy_examples.py) | Numpy Reference includes ways to manipulate numpy arrays |
