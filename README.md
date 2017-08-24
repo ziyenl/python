@@ -7,6 +7,7 @@ Topics| Description
 [F Strings (available for 3.6 and above)](https://github.com/ziyenl/python/blob/master/script/f_string.py)| allows local variables in local environment injected into the string 
 [Generator Expression](https://github.com/ziyenl/python/blob/master/script/generator_expression.py)| Generator Expression for large comprehensions
 [Generator Over List](https://github.com/ziyenl/python/blob/master/script/generator_over_list.py)| Generator Methods over List
+[Generator Non Exhuasted](https://github.com/ziyenl/python/blob/master/script/generator_non_exhuasted.py) | Generator Non Exhausted 
 [Manipulation of Multiple Iterators](https://github.com/ziyenl/python/blob/master/script/iterators.py)| use zip in python 3.x and itertools.izip in python 2.x 
 
 # Data Structure
