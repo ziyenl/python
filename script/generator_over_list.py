@@ -31,12 +31,13 @@ def stream_from_file(handle):
                 if i == ' ':
                     yield ite
 
+def run_iteration():
+    stream = stream_from_file(handle)
+    end_of_iteration = False
+    while not end_of_iteration:
+        try:
+            print(next(stream))
+        except StopIteration:
+            end_of_iteration = True
 
-a = stream_from_file(handle)
-print(next(a))
-print(next(a))
-print(next(a))
-print(next(a))
-print(next(a))
-print(next(a))
-print(next(a))
+run_iteration()
