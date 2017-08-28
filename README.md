@@ -12,6 +12,7 @@ Topics| Description
 [Generator In Class](https://github.com/ziyenl/python/blob/master/script/generator_in_class.py)| Generator In Class
 [Manipulation of Multiple Iterators](https://github.com/ziyenl/python/blob/master/script/iterators.py)| use zip in python 3.x and itertools.izip in python 2.x 
 [Non Exhuastive Generator](https://github.com/ziyenl/python/blob/master/script/non_exhuastive_generator.py) | Non Exhuastive Generator 
+[Stateful Method](https://github.com/ziyenl/python/blob/master/script/stateful_method.py) | Stateful Method 
 
 # Data Structure
 
