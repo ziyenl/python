@@ -2,6 +2,7 @@
 
 Topics| Description 
 ---| --- 
+[Easy Illustration of Decorator](https://github.com/ziyenl/python/blob/master/script/easy_decorator.py) | Easy Illustration of Decorator |
 [Closure Examples](https://github.com/ziyenl/python/blob/master/script/closure_examples.py) | Closure Examples |
 [Different Options of Retrieving a Dict](https://github.com/ziyenl/python/blob/master/script/retrieve_dict.py)| different options of retrieving a dict
 [Index of a List](https://github.com/ziyenl/python/blob/master/script/enumerate.py)| use enumerate |
