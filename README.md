@@ -2,6 +2,7 @@
 
 Topics| Description 
 ---| --- 
+[Closure Examples]() | Closure Examples |
 [Different Options of Retrieving a Dict](https://github.com/ziyenl/python/blob/master/script/retrieve_dict.py)| different options of retrieving a dict
 [Index of a List](https://github.com/ziyenl/python/blob/master/script/enumerate.py)| use enumerate |
 [F Strings (available for 3.6 and above)](https://github.com/ziyenl/python/blob/master/script/f_string.py)| allows local variables in local environment injected into the string 
