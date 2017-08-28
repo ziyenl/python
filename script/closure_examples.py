@@ -29,3 +29,22 @@ sample_list = [1,2,3,4,5,6]
 print(group_by_numbers(sample_list))
 print(sample_list)
 
+
+class Sorter(object):
+    def __init__(self, group):
+        self.group = group
+        self.exist = False
+
+    def __call__(self, item):
+        if item in self.group:
+            self.exist = True
+            return 0, item
+        else:
+            return 1, item
+
+
+s = Sorter(group={3,4,5})
+sample_list = [item for item in range(1, 11)]
+sample_list.sort(key=s)
+print(sample_list)
+print(s.exist)
