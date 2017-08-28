@@ -24,7 +24,7 @@ Topics| Description
 
 Topics | Description
 --- | ---
-[Scrabble Play](https://github.com/ziyenl/python/blob/master/script/scrabble_play.py) | Scrabble Play Time from Intermediate Python |
+[Scrabble Play](https://github.com/ziyenl/python/blob/master/script/scrabble_play.py) | Code along with Scrabble Play Time from Intermediate Python Programming by Jesicca McKellar|
 
 # Hacker Ranks
 
