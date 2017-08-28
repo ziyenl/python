@@ -20,6 +20,12 @@ Topics| Description
 [Summation of Two Linked List](https://github.com/ziyenl/python/blob/master/script/summing_list.py)| summation of two linked list
 [Queue Implementation (FIFO)](https://github.com/ziyenl/python/blob/master/script/queue.py)| queue implementation
 
+# Fun Stuff
+
+Topics | Description
+--- | ---
+[Scrabble Play](https://github.com/ziyenl/python/blob/master/script/scrabble_play.py) | Scrabble Play Time from Intermediate Python |
+
 # Hacker Ranks
 
 Topics| Description
