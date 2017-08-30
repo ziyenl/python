@@ -1,5 +1,6 @@
 #!/bin/python3
-
+#https://www.hackerrank.com/contests/gs-codesprint/challenges/trader-profit
+    
 import sys
 
 
