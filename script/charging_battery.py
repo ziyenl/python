@@ -1,5 +1,5 @@
-# https://www.hackerrank.com/contests/101hack51/challenges/charging-the-batteries/problem
 #!/bin/python3
+# https://www.hackerrank.com/contests/101hack51/challenges/charging-the-batteries/problem
 
 import sys
 
