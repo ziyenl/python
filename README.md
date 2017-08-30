@@ -33,6 +33,7 @@ Topics | Description
 
 Topics| Description
 ---| --- 
+[Charging Battery](https://github.com/ziyenl/python/blob/master/script/charging_battery.py) | use travelling salesman to navigate round the wall |
 ["Counter" for Iterable](https://github.com/ziyenl/python/blob/master/script/collections_counter.py) | use collections.Counter |
 [Cycle detection in Linked List](https://github.com/ziyenl/python/blob/master/script/cycle_detection.py)| cycle detection using tortoise and hare |
 [Differences to remove in producing Anagrams](https://github.com/ziyenl/python/blob/master/script/anagram_differences.py)| differences in producing anagram using collections.Counter |
