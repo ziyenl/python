@@ -1,8 +1,9 @@
 #!/bin/python3
 #https://www.hackerrank.com/contests/gs-codesprint/challenges/trader-profit
-    
-import sys
+#Algorithm
 
+
+import sys
 
 def traderProfit(k, n, A):
     if k == 0:
