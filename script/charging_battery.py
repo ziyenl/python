@@ -1,5 +1,11 @@
 #!/bin/python3
 # https://www.hackerrank.com/contests/101hack51/challenges/charging-the-batteries/problem
+# Algorithm
+# 1. Start from 0,0 and find distance of each point in reference to 0,0 to simulate walking around in the continuous connected line
+# 2. Sort the coordinate
+# 3. To cover for distance between the last coordinate with first coordinate, we need to add "artificial distances" to reflect 
+# equal distance between points as the original set of distance
+# 4. Get distance between the differing points e.g. point 1 and point 3 and get the shortest distance of them.
 
 import sys
 
