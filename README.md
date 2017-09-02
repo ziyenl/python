@@ -48,6 +48,7 @@ Topics| Description
 [Tales of Two Stack](https://github.com/ziyenl/python/blob/master/script/queue_one_stack.py) | using queue and slicing for tales of two stacks |
 [Tales of Two Stack](https://github.com/ziyenl/python/blob/master/script/queue_two_stacks.py) | using two queues and slicing for tales of two stacks |
 [Trader Profit](https://github.com/ziyenl/python/blob/master/script/trader_profit.py) | using recursion by comparing two adjacent values |
+[Utopian Tree](https://github.com/ziyenl/python/blob/master/script/utopian_tree.py) | using range correctly in utopian tree
 
 # Numpy Examples
 Topics | Description
