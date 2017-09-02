@@ -42,7 +42,7 @@ Topics| Description
 [Dictionary with predefined Type](https://github.com/ziyenl/python/blob/master/script/collections_defaultdict.py)| use defaultdict |
 [Fibonacci Recursion](https://github.com/ziyenl/python/blob/master/script/recursive_fibonacci.py) | use recursion and memoization |
 [Left Rotation in Array](https://github.com/ziyenl/python/blob/master/script/left_rotation.py)| left rotation using slicing |
-[Recursive Digit Sum]((https://github.com/ziyenl/python/blob/master/script/digit_sum.py)| recursive digit sum |
+[Recursive Digit Sum](https://github.com/ziyenl/python/blob/master/script/digit_sum.py)| recursive digit sum |
 [Stacks: Balanced Bracket](https://github.com/ziyenl/python/blob/master/script/balanced_brackets.py) | balanced bracket in expression using stacks |
 [Tales of Two Stack](https://github.com/ziyenl/python/blob/master/script/queue_one_stack.py) | using queue and slicing for tales of two stacks |
 [Tales of Two Stack](https://github.com/ziyenl/python/blob/master/script/queue_two_stacks.py) | using two queues and slicing for tales of two stacks |
