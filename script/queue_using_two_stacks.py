@@ -1,18 +1,24 @@
 class Queue(object):
     
     def __init__(self):
-        self._queue = []
+        self._front = []
+        self._back = []
         
     def queue(self, item):
-        self._queue.append(item)
+        self._front.append(item)
         
     def dequeue(self):
-        if len(self._queue) > 0:
-            self._queue = self._queue[1:]
+        if len(self._back) > 0 or len(self._front) > 0:
+            if self._back:
+                    self._back = []
+            else:
+                self._front = self._front[1:]
             
     def peek(self):
-        if len(self._queue) > 0:
-            return self._queue[0]
+        if self._front and not self._back:
+            self._back.append(self._front[0])
+            self._front = self._front[1:]
+        return self._back[0]
          
 if __name__ == '__main__':
     query = int(input())
