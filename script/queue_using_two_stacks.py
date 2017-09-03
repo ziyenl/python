@@ -1,5 +1,6 @@
+# https://www.hackerrank.com/challenges/queue-using-two-stacks/problem
+
 class Queue(object):
-    
     def __init__(self):
         self._front = []
         self._back = []
