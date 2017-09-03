@@ -21,7 +21,6 @@ Topics| Description
 Topics| Description
 ---| --- 
 [Summation of Two Linked List](https://github.com/ziyenl/python/blob/master/script/summing_list.py)| summation of two linked list
-| Queue  |
 [Queue Implementation (FIFO)](https://github.com/ziyenl/python/blob/master/script/queue.py)| queue implementation
 [Queue Using Two Stacks](https://github.com/ziyenl/python/blob/master/script/queue_using_two_stacks.py)| queue using two stacks
 
